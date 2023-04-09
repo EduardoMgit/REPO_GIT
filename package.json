@@ -1,0 +1,25 @@
+{
+  "name": "repo_git",
+  "version": "1.0.0",
+  "description": "repo para estudar javascript (react, node, npm)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/EduardoMgit/REPO_GIT.git"
+  },
+  "keywords": [
+    "NPM",
+    "React",
+    "Node",
+    "Javascript"
+  ],
+  "author": "Eduardo Motta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EduardoMgit/REPO_GIT/issues"
+  },
+  "homepage": "https://github.com/EduardoMgit/REPO_GIT#readme"
+}
