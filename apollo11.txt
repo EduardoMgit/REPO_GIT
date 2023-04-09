@@ -1,6 +1,0 @@
-data: 20 de julho de 1969
-fato: primeiro voo tripulado na lua
-duração da viagem: 8 dias
-orbitas lunares: 40 dias
-
-o/
